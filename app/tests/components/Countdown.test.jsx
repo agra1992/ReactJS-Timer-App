@@ -26,7 +26,7 @@ describe('Countdown', () => {
 
 		});
 
-		/*it('should never be negative', (done) => {
+		it('should never be negative', (done) => {
 			var countdown = TestUtils.renderIntoDocument(<Countdown />);
 			countdown.onSetCountdown(1);
 
@@ -38,7 +38,7 @@ describe('Countdown', () => {
 				done();
 			}, 3001);
 
-		});*/
+		});
 
 		it('should stop countdown on pause', (done) => {
 			var countdown = TestUtils.renderIntoDocument(<Countdown />);
