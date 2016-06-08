@@ -1,3 +1,3 @@
-A ReactJS Time App. (Under Development)
+A ReactJS Timer App.
 
 Live link: https://react-timer-app.herokuapp.com/
